@@ -1,2 +1,20 @@
-# gozz-plugins
-provide official plugins for gozz
+<p align="center">
+  <a href="https://github.com/go-zing/gozz" target="_blank">
+    <img src="https://raw.githubusercontent.com/go-zing/gozz-doc/main/docs/.vuepress/public/logo.png" alt="logo">
+  </a>
+</p>
+
+## Introduction
+
+[English](https://go-zing.github.io/gozz) | [简体中文](https://go-zing.github.io/gozz/zh)
+
+This Project provides official plugins and orm-schema-drivers for [gozz](https://github.com/go-zing/gozz).
+
+## Showcase
+
+- [Gozz-Core](https://github.com/go-zing/gozz-core)
+- [Gozz-Doc](https://github.com/go-zing/gozz-doc)
+
+## License
+
+[Apache-2.0](https://github.com/go-zing/gozz/blob/main/LICENSE)
