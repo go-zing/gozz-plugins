@@ -27,8 +27,6 @@ import (
 	zcore "github.com/go-zing/gozz-core"
 )
 
-func init() { zcore.RegisterOrmSchemaDriver(Mysql{}) }
-
 // +zz:orm:information_schema:table=COLUMNS
 type Mysql struct{}
 
