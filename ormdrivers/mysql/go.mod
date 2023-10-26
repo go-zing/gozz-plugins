@@ -4,5 +4,5 @@ go 1.16
 
 require (
 	github.com/go-sql-driver/mysql v1.7.1
-	github.com/go-zing/gozz-core v0.0.0-20231021082549-eaae8a5866e5
+	github.com/go-zing/gozz-core v0.0.0-20231026075749-afdf2947e370
 )

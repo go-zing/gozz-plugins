@@ -1,3 +1,7 @@
 package main
 
-var Z = Mysql{}
+import (
+	zcore "github.com/go-zing/gozz-core"
+)
+
+var Z zcore.OrmSchemaDriver = Mysql{}
